@@ -1,0 +1,111 @@
+/*********TAG SELECTORS*********/
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Merriweather', serif;
+}
+
+header {
+  text-align: center;
+  background-color: #e0ebe8;
+  height: 3em;
+}
+
+h1 {
+  margin: 0px;
+  padding: 6px;
+  padding-top: 2em;
+  color: #45b29a;
+  font-family: 'Sacramento', cursive;
+  font-size: 44px;
+}
+
+h2 , h3 {
+font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border: none;
+}
+
+p {
+  margin: 0;
+  display: inline-block;
+}
+
+footer {
+  background-color: #e0ebe8;
+  height: 3em;
+  text-align: center;
+}
+
+a {
+  color: #45b29a;
+  text-decoration: none;
+  font-size: 16px;
+  display: inline-block;
+}
+
+section {
+  color: #45b29a;
+  font-size: 14px;
+
+}
+
+/*********CLASS SLECTOR*********/
+
+.img-mountain {
+  max-width: 100%;
+  margin-top: 3em;
+  height: auto;
+  padding: 0;
+}
+
+.profile-image {
+  border-radius: 50%;
+  max-width: 100%;
+  margin-top: 3em;
+  height: auto;
+  padding: 0;
+}
+
+hr.dotted {
+  border-top: 5px dotted #e0ebe8;
+  width: 45px;
+}
+
+.first-container {
+  background-color: #e0ebe8;
+  text-align: center;
+  height: auto;
+}
+
+.middle-container {
+  height: auto;
+  text-align: center;
+  padding: 2em;
+  margin: 0 5px;
+}
+
+.freepik {
+  color: #e0ebe8;
+  position: relative;
+  left: 10px;
+  bottom: 30px;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+
+/*********ID SLECTORS*********/
+
+
+
+
+
+
+
+
+
+/*  */
